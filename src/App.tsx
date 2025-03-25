@@ -1,4 +1,4 @@
-import React from "react";
+//import React from "react";
 import Mapa from "./components/Mapa";
 
 function App() {
